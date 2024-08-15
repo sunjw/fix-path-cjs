@@ -1,0 +1,21 @@
+{
+	"name": "@sunjw8888/fix-path-cjs",
+	"version": "0.1.0",
+	"description": "A CJS call for fix-path with fix-path-cjs-wrapper",
+	"license": "MIT",
+	"repository": "https://github.com/sunjw/fix-path-cjs-wrapper",
+	"author": "Sun Junwen",
+	"exports": "./index.js",
+	"engines": {
+		"node": ">=16"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.25.2",
+		"@babel/plugin-transform-export-namespace-from": "^7.24.7",
+		"@babel/plugin-transform-modules-commonjs": "^7.24.8",
+		"node-abi": "^3.65.0"
+	},
+	"dependencies": {
+		"@sunjw8888/fix-path-cjs-wrapper": "^0.1.0"
+	}
+}
