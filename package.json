@@ -1,6 +1,6 @@
 {
 	"name": "@sunjw8888/fix-path-cjs",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "A CJS call for fix-path with fix-path-cjs-wrapper",
 	"license": "MIT",
 	"repository": "https://github.com/sunjw/fix-path-cjs-wrapper",
