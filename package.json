@@ -10,10 +10,10 @@
 		"node": ">=16"
 	},
 	"dependencies": {
-		"@babel/core": "^7.26.10",
-		"@babel/plugin-transform-export-namespace-from": "^7.25.9",
-		"@babel/plugin-transform-modules-commonjs": "^7.26.3",
+		"@babel/core": "^7.27.4",
+		"@babel/plugin-transform-export-namespace-from": "^7.27.1",
+		"@babel/plugin-transform-modules-commonjs": "^7.27.1",
 		"@sunjw8888/fix-path-cjs-wrapper": "^0.1.0",
-		"node-abi": "^3.74.0"
+		"node-abi": "^3.75.0"
 	}
 }
