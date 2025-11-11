@@ -7,13 +7,13 @@
   "author": "Sun Junwen",
   "exports": "./index.js",
   "engines": {
-    "node": ">=16"
+    "node": ">=20"
   },
   "dependencies": {
-    "@babel/core": "^7.27.4",
+    "@babel/core": "^7.28.5",
     "@babel/plugin-transform-export-namespace-from": "^7.27.1",
     "@babel/plugin-transform-modules-commonjs": "^7.27.1",
-    "@sunjw8888/fix-path-cjs-wrapper": "^0.1.0",
-    "node-abi": "^3.75.0"
+    "@sunjw8888/fix-path-cjs-wrapper": "^0.2.0",
+    "node-abi": "^3.80.0"
   }
 }
