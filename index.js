@@ -1,5 +1,5 @@
-const ESMHelper = require('./esm-helper');
-const fixPathCjsWrapper = ESMHelper.requireESM('@sunjw8888/fix-path-cjs-wrapper');
+const ReqESM = require('@sunjw8888/require-esm');
+const fixPathCjsWrapper = ReqESM.requireESM('@sunjw8888/fix-path-cjs-wrapper');
 
 function fixPath() {
     fixPathCjsWrapper.fixPathWrapper();
